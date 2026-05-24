@@ -1,4 +1,3 @@
-package DAY4;
 import java.util.*;
 public class new15 {
     public static void main(String arg[]){
